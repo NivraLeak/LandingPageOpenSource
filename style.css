@@ -1,0 +1,80 @@
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 0em;
+  
+}
+.logo{
+  height: 10px;
+  background-image:url(https://cdn.glitch.com/9baac2ee-5b0f-4265-b641-1b3ec3dd7eab%2Flogo2.png?v=1589007601498);
+}
+
+.cover {
+  height: 400px;
+  background-image:url(https://cdn.glitch.com/9baac2ee-5b0f-4265-b641-1b3ec3dd7eab%2Fslider-bg.jpg?v=1588969138565);
+  color:white;
+  background-size: cover;
+  background-position:center;
+  background-color:rgba(0,0,0,0.5);
+  background-blend-mode: darken;
+  
+  
+}
+.text{
+  height: 500px;
+  margin-top: 4rem !important;
+}
+
+.abouthis{
+  height: 400px;
+  max-width: 40rem;
+  margin-top: 4rem !important;
+  margin-left: 4rem !important;
+  margin-right: 4rem !important;
+  margin-bottom: 4rem !important;
+  min-width: 200px;
+}
+
+.Belive {
+  height: 550px;
+  background-image:url(https://cdn.glitch.com/9baac2ee-5b0f-4265-b641-1b3ec3dd7eab%2Ffeatue-bg.jpg?v=1588984471100);
+  color:white;
+  background-size: cover;
+  background-position:center;
+  background-color:rgba(0,0,0,0.5);
+  background-blend-mode: darken; 
+}
+
+.box1 {
+  height: 400px;
+  max-width: 40rem;
+  margin-top: 4rem !important;
+  margin-left: 4rem !important;
+  margin-right: 4rem !important;
+  margin-bottom: 4rem !important;
+  min-width: 500px;
+  position: absolute;
+  right: 0;
+  
+}
+
+.box3{
+  height: 1000px;
+}
+
+.card{
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
+}
+
+.cover-small{
+  height: 115px;
+  background-blend-mode: normal;
+}
+
+.card-title{
+  min-height:3rem;
+}
+.card-text{
+  min-height:10rem;
+}
